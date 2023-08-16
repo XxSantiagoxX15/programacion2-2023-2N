@@ -1,1 +1,2 @@
-hola, este es un ejecicio de GIT 
+hola, este es un ejercicio de GIT 
+Y estoy modificando el archivo TXT
